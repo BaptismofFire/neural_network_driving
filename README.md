@@ -3,7 +3,8 @@
 NeuralNetworkRacing
 Neural network learns how to drive a car on a track. Simple 2D simulation with pyglet & numpy.
 
-This code is adapted from https://github.com/TomasBrezina/NeuralNetworkRacing/tree/master
+This code is adapted from https://github.com/TomasBrezina/NeuralNetworkRacing/tree/master<br>
+The instagram is at https://www.instagram.com/p/C7WdT8tN4Wt/
 
 
 https://github.com/user-attachments/assets/6b8d7ee8-504f-4ade-badd-6a0af647ceb3
@@ -17,7 +18,10 @@ pip install -r requirements.txt
 
 NeuralNetworkRacing/requirements.txt
 
-Lines 1 to 3 in e6ff65a
+{1:3}(NeuralNetworkRacing/requirements.txt) <br>
+
+@@include[NeuralNetworkRacing/requirements.txt]
+<br> Lines 1 to 3 in e6ff65a
 
  pyglet == 1.5.29 
  numpy 
