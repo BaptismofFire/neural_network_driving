@@ -1,15 +1,13 @@
 # neural_network_driving
 
-adapted from https://github.com/TomasBrezina/NeuralNetworkRacing/tree/master
-
 NeuralNetworkRacing
 Neural network learns how to drive a car on a track. Simple 2D simulation with pyglet & numpy.
 
- image/nn_drive_crop.mp4 
+This code is adapted from https://github.com/TomasBrezina/NeuralNetworkRacing/tree/master
 
-![video](https://vimeo.com/994902419/891b8e083e)
 
-This code is a product of my early programming days. I've refactored it, but it might not align with current best practices.
+https://github.com/user-attachments/assets/6b8d7ee8-504f-4ade-badd-6a0af647ceb3
+
 
 ▶️️ HOW TO RUN?
 Install packages
