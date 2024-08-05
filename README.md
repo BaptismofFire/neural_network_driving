@@ -22,10 +22,11 @@ neural_network_driving/requirements.txt
 
 @@include[neural_network_driving/requirements.txt]
 <br> Lines 1 to 3 in e6ff65a
-
+```
  pyglet == 1.5.29 
  numpy 
- pillow 
+ pillow
+```
 Run main file
 Should work with Python 3.0 and higher.
 
