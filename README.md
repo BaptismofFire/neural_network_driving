@@ -16,11 +16,11 @@ Install packages
 pip install -r requirements.txt
 ```
 
-NeuralNetworkRacing/requirements.txt
+neural_network_driving/requirements.txt
 
-{1:3}(NeuralNetworkRacing/requirements.txt) <br>
+{1:3}(neural_network_driving/requirements.txt) <br>
 
-@@include[NeuralNetworkRacing/requirements.txt]
+@@include[neural_network_driving/requirements.txt]
 <br> Lines 1 to 3 in e6ff65a
 
  pyglet == 1.5.29 
